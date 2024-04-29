@@ -9,13 +9,7 @@ let lat = document.getElementById("lat");
 let Name = document.getElementById("name");
         
  function no(){
-          const check= confirm("are you sure about that you love me❔");
-            if(check==true){
-                alert("then click 'YES' ");
-            }
-            else{
-                alert("you clicked to NO it mean its  'YES' .");
-            }
+         alert("'NO' button is not available");
         }
         show_image.style="display:block";
         heading.style.display="none";
