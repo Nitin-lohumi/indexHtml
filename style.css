@@ -67,7 +67,7 @@ body{
     width:100%;
     margin: 4px 2px;
     background: #2bff00;
-    color:rgb(255, 255, 255);
+    color:black;
     font-weight: 600;
     border-radius: .5rem;
     padding:10px;
@@ -80,7 +80,7 @@ body{
     width:100%;
     margin: 4px 6px;
     background: #f62626;
-    color:rgb(255, 255, 255);
+    color:black;
     font-weight: 600;
     border-radius: .5rem;
     padding:10px;
