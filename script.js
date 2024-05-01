@@ -15,7 +15,7 @@ let Name = document.getElementById("name");
         heading.style.display="none";
         heading.innerHTML="this is for you";
         greet.style="display:none";
-        greet.innerHTML= "thanking uhh";
+        greet.innerHTML= " 🙏 Thanks 😊 ";
 
         function open_page(){
                 count--;
