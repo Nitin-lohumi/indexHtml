@@ -9,7 +9,7 @@ let lat = document.getElementById("lat");
 let Name = document.getElementById("name");
         
  function no(){
-         alert("'NO' button is not for Use 😘");
+         alert(" This button is not for Use 😘");
         }
         show_image.style="display:block";
         heading.style.display="none";
