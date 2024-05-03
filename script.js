@@ -13,7 +13,7 @@ let Name = document.getElementById("name");
         }
         show_image.style="display:block";
         heading.style.display="none";
-        heading.innerHTML="you are also very good person. So this is for you ";
+        heading.innerHTML="so This is for you ";
         greet.style="display:none";
         greet.innerHTML= "😊";
 
