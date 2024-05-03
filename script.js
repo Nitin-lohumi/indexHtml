@@ -13,9 +13,9 @@ let Name = document.getElementById("name");
         }
         show_image.style="display:block";
         heading.style.display="none";
-        heading.innerHTML="this is for you";
+        heading.innerHTML="you are also very good person. So this is for you ";
         greet.style="display:none";
-        greet.innerHTML= "Thanks😊";
+        greet.innerHTML= "😊";
 
         function open_page(){
                 count--;
